@@ -1,0 +1,1 @@
+# Custom-EasyOCR-model-Training
