@@ -1,0 +1,13 @@
+https://github.com/clovaai/deep-text-recognition-benchmark
+
+https://github.com/clovaai/deep-text-recognition-benchmark/issues/85
+
+https://github.com/Belval/TextRecognitionDataGenerator
+
+https://github.com/Belval/TextRecognitionDataGenerator/blob/master/trdg/run.py
+
+trdg -c 1000 -rs -bl 2 -rbl -b 0 -na 2 -al 1 -ft Dot_Matrix.ttf -ca upper
+
+python create_lmdb_dataset.py --inputPath data/ --gtFile data/gt.txt --outputPath result/
+
+python train.py --train_data train --valid_data valid --Transformation None --FeatureExtraction VGG --SequenceModeling BiLSTM --Prediction CTC --data_filtering_off
