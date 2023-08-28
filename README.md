@@ -2,3 +2,4 @@
 
 Fixed Some Error from 
   https://github.com/clovaai/deep-text-recognition-benchmark
+  https://github.com/Belval/TextRecognitionDataGenerator
