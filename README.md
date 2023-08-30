@@ -6,7 +6,7 @@ This repository showcases my contributions to the custom EasyOCR model training 
 I have cloned the original repositories. This repository contains existing project for training a custom EasyOCR model.
 
 - [https://github.com/clovaai/deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark)
-- [https://github.com/clovaai/deep-text-recognition-benchmark](https://github.com/Belval/TextRecognitionDataGenerator)
+- [[https://github.com/clovaai/deep-text-recognition-benchmark](https://github.com/Belval/TextRecognitionDataGenerator)](https://github.com/Belval/TextRecognitionDataGenerator)
 
 
 ## Changes Made
