@@ -1,4 +1,4 @@
-## Custom EasyOCR Model Training
+# Custom EasyOCR Model Training
 
 This repository showcases my contributions to the custom EasyOCR model training project. I have utilized two main repositories for this project:
 
